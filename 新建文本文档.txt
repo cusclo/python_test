@@ -1,0 +1,7 @@
+【Receive from 192.168.25.28 :2425】：
+1_lbt80_49#128#54E1AD474025#0#0#0#4000#9:1508575464:gewen:DESKTOP-SH4L1Q4:0:
+1_lbt80_49#128#54E1AD474025#0#0#0#4000#9:1508575463:gewen:DESKTOP-SH4L1Q4:0:
+1_lbt80_49#128#54E1AD474025#0#0#0#4000#9:1508575465:gewen:DESKTOP-SH4L1Q4:6291457:葛文祥1_lbt80_49#128#54E1AD474025#0#0#0#4000#9:1508575468:gewen:DESKTOP-SH4L1Q4:6291457:葛文祥1_lbt80_49#128#54E1AD474025#0#0#0#4000#9:1508575496:gewen:DESKTOP-SH4L1Q4:472:0
+1_lbt80_49#128#54E1AD474025#0#0#0#4000#9:1508575516:gewen:DESKTOP-SH4L1Q4:6291457:葛文祥
+【Receive from 192.168.25.55 :2425】：
+1_lbt80_0#131#68F7286FDF29#0#0#0#4000#9:1508577425:Administrator:ZZ-ITCAST:2336:进入 解压后的目录  pytharm/bin/里面有一个    pycharm.sh 的文件，执行  sudo ./pycharm.sh 1_lbt80_0#131#68F7286FDF29#0#0#0#4000#9:1508577425:Administrator:ZZ-ITCAST:2336:进入 解压后的目录  pytharm/bin/里面有一个    pycharm.sh 的文件，执行  sudo ./pycharm.sh 1_lbt80_0#131#68F7286FDF29#0#0#0#4000#9:1508577425:Administrator:ZZ-ITCAST:2336:进入 解压后的目录  pytharm/bin/里面有一个    pycharm.sh 的文件，执行  sudo ./pycharm.sh 1_lbt80_0#131#68F7286FDF29#0#0#0#4000#9:1508577425:Administrator:ZZ-ITCAST:2336:进入 解压后的目录  pytharm/bin/里面有一个    pycharm.sh 的文件，执行  sudo ./pycharm.sh 1_lbt80_0#131#68F7286FDF29#0#0#0#4000#9:1508577425:Administrator:ZZ-ITCAST:2336:进入 解压后的目录  pytharm/bin/里面有一个    pycharm.sh 的文件，执行  sudo ./pycharm.sh 
